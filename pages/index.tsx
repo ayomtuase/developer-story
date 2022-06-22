@@ -4,10 +4,10 @@ import data from "../lib/data";
 import {
   TitleDivider,
   Header,
-  Artifacts,
-  Applications,
-  Experiences,
-  OpenSourceSoftwares,
+  // Artifacts,
+  // Applications,
+  // Experiences,
+  // OpenSourceSoftwares,
 } from "../components";
 import { ReactNode } from "react";
 
@@ -45,7 +45,7 @@ const Home: NextPage = () => {
           technologies={story.technologies}
         />
 
-        <TitleDivider title="EXPERIENCE" />
+        {/* <TitleDivider title="EXPERIENCE" />
         <Column>
           <Experiences items={story.experiences} />
         </Column>
@@ -70,7 +70,7 @@ const Home: NextPage = () => {
         <TitleDivider title="PUBLIC ARTIFACTS" />
         <Column>
           <Artifacts items={story.artifacts} />
-        </Column>
+        </Column> */}
 
         <TitleDivider title="TOOLS" />
         <div className="text-sm text-slate-600">{story.tools.join(", ")}</div>
