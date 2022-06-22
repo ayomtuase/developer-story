@@ -6,7 +6,7 @@
   "location": "Akure, Nigeria",
   "email": "oguntuase3@gmail.com",
   "twitter": "ayo_m_tuase",
-  "github": "ayomtuase",  
+  "github": "ayomtuase",
   "technologies": [
     "html",
     "css",
@@ -25,7 +25,7 @@
       "website": "myfuelcredit.com",
       "description": "Developed the webapp of FuelCredit using react, redux, react-bootstrap",
       "start": "2021-11-01T00:00:00Z",
-      "end":"",
+      "end": "",
       "technologies": [
         "react",
         "redux",
@@ -33,10 +33,41 @@
         "react-bootstrap"
       ],
       "icon": "fuelcredit"
-    }    
+    }
   ],
-  
-  "tools": [    
+  "opensource": [
+    ""
+  ],
+  "applications": [
+    {
+      "name": "",
+      "date": "",
+      "technologies": [
+        "",
+        ""
+      ],
+      "description": "",
+      "links": {
+        "web": ""
+      },
+      "icon": ""
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "",
+      "url": "",
+      "date": "",
+      "technologies": [
+        "",
+        "",
+        ""
+      ],
+      "description": "",
+      "icon": ""
+    }
+  ],
+  "tools": [
     "VSCode"
   ]
 }
