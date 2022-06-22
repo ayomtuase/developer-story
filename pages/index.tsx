@@ -45,12 +45,12 @@ const Home: NextPage = () => {
           technologies={story.technologies}
         />
 
-        {/* <TitleDivider title="EXPERIENCE" />
+        <TitleDivider title="EXPERIENCE" />
         <Column>
           <Experiences items={story.experiences} />
         </Column>
 
-        <TitleDivider title={`OPEN SOURCE (${story.opensource.length})`} />
+        {/* <TitleDivider title={`OPEN SOURCE (${story.opensource.length})`} />
         <Column>
           <OpenSourceSoftwares
             items={Object.entries(data.oss).map(([name, item]) => ({

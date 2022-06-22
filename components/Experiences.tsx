@@ -11,7 +11,7 @@ export const Experiences = ({ items }: { items: Experience[] }) => (
     label="experiences"
     builder={(experience) => {
       const startDate = dayjs(experience.start);
-      const endDate = dayjs(experience.end ?? Date.now());
+      const endDate = dayjs(experience.end || Date.now());
 
       return (
         <IconListItem key={experience.name} icon={experience.icon}>
