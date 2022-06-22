@@ -25,6 +25,7 @@
       "website": "myfuelcredit.com",
       "description": "Developed the webapp of FuelCredit using react, redux, react-bootstrap",
       "start": "2021-11-01T00:00:00Z",
+      "end":"",
       "technologies": [
         "react",
         "redux",
