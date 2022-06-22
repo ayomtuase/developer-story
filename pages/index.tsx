@@ -6,7 +6,7 @@ import {
   Header,
   // Artifacts,
   // Applications,
-  // Experiences,
+  Experiences,
   // OpenSourceSoftwares,
 } from "../components";
 import { ReactNode } from "react";
