@@ -48,7 +48,10 @@
       ],
       "description": "",
       "links": {
-        "web": ""
+        "web": "",
+        "ios": "",
+        "android": ""
+
       },
       "icon": ""
     }
