@@ -1,8 +1,8 @@
 {
   "name": "Ayomide Oguntuase",
   "description": "Think. Code. Love.",
-  "image_url": "https://s.gravatar.com/avatar/d5c433918b6026fbdc2b7c2afc3c3dd9?s=80",
-  "occupation": "Front-end Engineer",
+  "image_url": "https://www.gravatar.com/avatar/d5c433918b6026fbdc2b7c2afc3c3dd9?s=80&d=identicon&r=PG",
+  "occupation": "Frontend Engineer",
   "location": "Akure, Nigeria",
   "email": "oguntuase3@gmail.com",
   "twitter": "ayo_m_oguntuase",
@@ -23,7 +23,7 @@
     {
       "name": "Frontend Developer",
       "company": "FuelCredit",
-      "website": "myfuelcredit.com",
+      "website": "https://www.myfuelcredit.com",
       "description": "Developed the webapp of FuelCredit using react, redux, react-bootstrap",
       "start": "2021-11-01T00:00:00Z",
       "end": "",
